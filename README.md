@@ -75,6 +75,6 @@ Notes
 The shutdown option is currently commented out to prevent accidental shutdowns.
 If no events are detected, verify that Windows security logging is enabled (gpedit.msc -> Computer Configuration -> Windows Settings -> Security Settings -> Local Policies -> Audit Policy).
 Contributions
+
 If you have suggestions or improvements, feel free to open an issue or submit a pull request on GitHub!
 
-This version is fully translated and adapted to reflect the script’s functionality in English. Let me know if you need further refinements! 🚀
